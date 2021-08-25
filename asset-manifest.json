@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fit-community-chat-app/static/css/main.6844420d.chunk.css",
+    "main.js": "/fit-community-chat-app/static/js/main.85e5324c.chunk.js",
+    "main.js.map": "/fit-community-chat-app/static/js/main.85e5324c.chunk.js.map",
+    "runtime-main.js": "/fit-community-chat-app/static/js/runtime-main.340b799b.js",
+    "runtime-main.js.map": "/fit-community-chat-app/static/js/runtime-main.340b799b.js.map",
+    "static/css/2.a67e8451.chunk.css": "/fit-community-chat-app/static/css/2.a67e8451.chunk.css",
+    "static/js/2.af1278c3.chunk.js": "/fit-community-chat-app/static/js/2.af1278c3.chunk.js",
+    "static/js/2.af1278c3.chunk.js.map": "/fit-community-chat-app/static/js/2.af1278c3.chunk.js.map",
+    "index.html": "/fit-community-chat-app/index.html",
+    "static/css/2.a67e8451.chunk.css.map": "/fit-community-chat-app/static/css/2.a67e8451.chunk.css.map",
+    "static/css/main.6844420d.chunk.css.map": "/fit-community-chat-app/static/css/main.6844420d.chunk.css.map",
+    "static/js/2.af1278c3.chunk.js.LICENSE.txt": "/fit-community-chat-app/static/js/2.af1278c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.340b799b.js",
+    "static/css/2.a67e8451.chunk.css",
+    "static/js/2.af1278c3.chunk.js",
+    "static/css/main.6844420d.chunk.css",
+    "static/js/main.85e5324c.chunk.js"
+  ]
+}
